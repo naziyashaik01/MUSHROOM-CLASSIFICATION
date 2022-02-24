@@ -3,7 +3,6 @@ GOAL:In this project, we will examine the data and bUild different machine learn
 In this project, i used the python libraries namely NUMPY,PANDAS,MATPLOTLIB,SCIKIT LEARN.
 
 Attribute Information or Dataset Details:
-To be more understandable, let’s write properties one by one.
 
 classes: edible=e, poisonous=p
 cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
