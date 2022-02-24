@@ -30,6 +30,7 @@ population: abundant=a, clustered=c, numerous=n, scattered=s, several=v, solitar
 habitat: grasses=g, leaves=l, meadows=m, paths=p, urban=u, waste=w, woods=d
 
 If you want to check the original dataset than please click on the below link, its a Kaggle dataset
+
 https://www.kaggle.com/uciml/mushroom-classification
 
 First we need to import the necessary libraries
@@ -48,5 +49,6 @@ There are total 8,124 rows without any null values present in our dataset and ev
 There is no data imbalance issue in dataset.
 
 PREPROCESSING:
+
 LABEL ENCODING:
 Machine Learning model only accepts the numerical data and we have non-numerical values in data, so we will use Label Encoding, a preprocessing library of sklearn to convert non numeric data into numeric. This will give a random ranking to the values inside the column.
